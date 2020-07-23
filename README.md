@@ -9,7 +9,7 @@ Hi, I'm fiaz a freelance flutter developer and also love vue.js. I've worked to 
 ✍️ Testing and Getting Feedback\
 💝 Send Source Code and Done
 
-**ALSO I CREATE TUTORIAL IN YOUTUBE https://www.youtube.com/devindo**
+**ALSO I CREATE TUTORIAL IN YOUTUBE** https://www.youtube.com/devindo
 
 ### Get In Touch
 - Twitter : https://twitter.com/hifiaz
