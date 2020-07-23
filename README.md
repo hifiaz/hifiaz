@@ -1,4 +1,4 @@
-### Fiaz Luthfi --@HiFiaz 👋
+### Fiaz Luthfi -- @HiFiaz 👋
 
 Hi, I'm fiaz a freelance flutter developer and also love vue.js. I've worked to create flutter app with Oracle, Bank Standard Chartered and some startups. Previously worked as Manager in a company to handle some client with some of project. And yes for now am full freelance developer and open to work with you 💕
 
@@ -7,7 +7,7 @@ Hi, I'm fiaz a freelance flutter developer and also love vue.js. I've worked to 
 💻 Communicate how we work and project prices\
 ✅ Create list of work and milestone\
 ✍️ Testing and Getting Feedback\
-💝 Send Source Code and Done\
+💝 Send Source Code and Done
 
 ### Get In Touch
 - Twitter : https://twitter.com/hifiaz
