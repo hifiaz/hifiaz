@@ -14,6 +14,8 @@ Hi, I'm fiaz a freelance flutter developer and also love vue.js. I've worked to 
 ### Get In Touch
 - Twitter : https://twitter.com/hifiaz
 - Blog: https://lthfi.netlify.app
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hifiaz&show_icons=true" alt="hifiaz" /> </p>
 <!--
 **hifiaz/hifiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
